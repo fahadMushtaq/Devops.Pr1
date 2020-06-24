@@ -3,7 +3,9 @@
 from flask import Flask
 
 PORT = 8080
-MESSAGE = "In the name of Allah.  Hello, world 123890!\n"
+MESSAGE = """In the name of Allah.  
+There is nothing more important than the Tawheed of Allah, and Worshipping Him alone.  With this I say: 
+Hello, world, and I call you to Islam!\n"""
 
 app = Flask(__name__)
 
