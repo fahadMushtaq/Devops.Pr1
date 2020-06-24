@@ -2,7 +2,7 @@
 #!/usr/bin/python
 from flask import Flask
 
-PORT = 8080
+PORT = 9090
 MESSAGE = """In the name of Allah.  
 There is nothing more important than the Tawheed of Allah, and Worshipping Him alone.  With this I say: 
 Hello, world, and I call you to Islam!\n"""
